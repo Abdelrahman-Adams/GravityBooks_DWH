@@ -72,7 +72,7 @@ The data was located on a traditional OLTP database which was normalized. We fir
 
 ## **Phase 3: Cubes using SSAS**
 ### First we switched SSAS to tabular mode ###
-
-
+### Then creating suitable measures to store it in Cube: ###
+![Measured](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSAS/1.Measures.PNG?raw=true)
 
 
