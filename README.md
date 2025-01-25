@@ -50,14 +50,22 @@ The data was located on a traditional OLTP database which was normalized. We fir
     - Fact table
 
 
-**Phase 2:** ETL using SSIS:
-![Alt text](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.2.Book_Dim.PNG?raw=true)
-- Book Dimension
-![Alt text](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.1.Customer_Dim.PNG?raw=true)
-- Customer Dimension
-![Alt text](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.3.shipping_dimension.PNG?raw=true)
-- Shipping_Method Dimension
-- Data Dimension
-![Alt text](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.4.Fact_Table.PNG?raw=true)
-- Fact table
+## **Phase 2: ETL using SSIS**
+
+### **Dimensions and Fact Table**
+
+#### **1. Book Dimension**
+![Book Dimension](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.2.Book_Dim.PNG?raw=true)
+
+#### **2. Customer Dimension**
+![Customer Dimension](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.1.Customer_Dim.PNG?raw=true)
+
+#### **3. Shipping_Method Dimension**
+![Shipping_Method Dimension](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.3.shipping_dimension.PNG?raw=true)
+
+#### **4. Date Dimension**
+*(Add the image link for the Date Dimension here if available)*
+
+#### **5. Fact Table**
+![Fact Table](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.4.Fact_Table.PNG?raw=true)
 
