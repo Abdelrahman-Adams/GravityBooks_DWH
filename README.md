@@ -76,7 +76,7 @@ The data was located on a traditional OLTP database which was normalized. We fir
 ![Measured](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSAS/1.Measures.PNG?raw=true)
 
 ## **Phase 4: Creating Visualization using PowerBI**
-(Screenshots/Visualization/1.First.PNG)
+![Page 1](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/1.First.PNG)
 
 
 
