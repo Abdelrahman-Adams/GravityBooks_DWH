@@ -15,3 +15,8 @@ Gravity Books is a database for a fictional bookstore that captures information 
 
 ERD of ‘gravity_books’ transactional database:
 ![plot] (https://drive.google.com/file/d/1qG9Zkr3NhfYB1FpOm4g9Le68JfCk09cM/view?usp=sharing)
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1qG9Zkr3NhfYB1FpOm4g9Le68JfCk09cM/view?usp=sharing)
+
