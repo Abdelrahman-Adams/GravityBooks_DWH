@@ -8,17 +8,16 @@
 This project is about **Extracting, Transforming, and Loading** data from an OLTP database to create a functional Data Warehouse. Conducted analysis and reporting using SSIS, SSAS, and Power bi.
 
 
-## About Database
+## About Data Warehouse
 
 The data selected to be used is GravityBooks Database.
 Gravity Books is a database for a fictional bookstore that captures information about books, customers, and sales. 
 
 ERD of ‘gravity_books’ transactional database:
 
+
 ## 🖥️ ERD
 ![Alt Text](https://drive.google.com/uc?export=view&id=1qG9Zkr3NhfYB1FpOm4g9Le68JfCk09cM)
-![Alt Text](https://drive.google.com/uc?export=view&id=1j5U7guWBxWCfKftZrJ5CGO7FjiYlo3-J)
-
 ### Tables Description:
 - **book**: A list of all books available in the store.
 - **book_author**: Stores the authors for each book, which is a many-to-many relationship.
@@ -36,5 +35,20 @@ ERD of ‘gravity_books’ transactional database:
 - **order_history**: The history of an order, such as ordered, cancelled, delivered.
 - **order_status**: The possible statuses of an order.
 
+
+
+
+## Create Data Warehouse
+![Alt text](https://drive.google.com/uc?export=view&id=1j5U7guWBxWCfKftZrJ5CGO7FjiYlo3-J)
+
+**Phase 1:** ETL using SSIS
+The data was located on a traditional OLTP database which was normalized. We first created a database inside SQL Server for the data warehouse Then, We Write DDLs for the creation and joining of the data in **DWH**.
+
+- We created star schema to show Fact table and Dimensions we ended having 4 Dimensions tables and 1 Fact table as shown below:
+    - Book Dimension
+    - Customer Dimension
+    - Shipping_Method Dimension
+    - Data Dimension
+    - Fact table
 
 
