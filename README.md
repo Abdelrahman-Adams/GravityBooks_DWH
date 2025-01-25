@@ -52,7 +52,7 @@ The data was located on a traditional OLTP database which was normalized. We fir
 
 ## **Phase 2: ETL using SSIS**
 ### Using Slowly changing Dimension ###
-### **Dimensions and Fact Table**
+### **Dimensions and Fact Table**:
 
 #### **1. Book Dimension**
 ![Book Dimension](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.2.Book_Dim.PNG?raw=true)
