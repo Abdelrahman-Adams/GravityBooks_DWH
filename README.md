@@ -77,6 +77,10 @@ The data was located on a traditional OLTP database which was normalized. We fir
 
 ## **Phase 4: Creating Visualization using PowerBI**
 ![Page 1](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/1.First.PNG)
-
+![Page 2](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Books.PNG)
+![Page 3](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Customers.PNG)
+![Page 4](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Orders.PNG)
+![Page 5](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Shipping.PNG)
+![Page 6](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Tooltip.PNG)
 
 
