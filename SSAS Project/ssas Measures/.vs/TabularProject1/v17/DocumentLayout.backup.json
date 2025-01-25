@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Computec\\Desktop\\gravity book project\\Sql\\TabularProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE414BB-95B2-4C99-9E03-51BA72086E22}|TabularProject1\\TabularProject1.smproj|C:\\Users\\Computec\\Desktop\\gravity book project\\Sql\\TabularProject1\\TabularProject1\\Model.bim||{9EE154FA-5389-414A-9FA1-1D9F0221267D}",
+      "RelativeMoniker": "D:0:0:{8CE414BB-95B2-4C99-9E03-51BA72086E22}|TabularProject1\\TabularProject1.smproj|solutionrelative:TabularProject1\\Model.bim||{9EE154FA-5389-414A-9FA1-1D9F0221267D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fb9be9ec-5f71-4a43-9ae6-ae02b00f044b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.bim",
+              "DocumentMoniker": "C:\\Users\\Computec\\Desktop\\gravity book project\\Sql\\TabularProject1\\TabularProject1\\Model.bim",
+              "RelativeDocumentMoniker": "TabularProject1\\Model.bim",
+              "ToolTip": "C:\\Users\\Computec\\Desktop\\gravity book project\\Sql\\TabularProject1\\TabularProject1\\Model.bim",
+              "RelativeToolTip": "TabularProject1\\Model.bim",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T15:33:49.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

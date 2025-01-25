@@ -1,0 +1,8 @@
+C:\Users\Computec\Desktop\gravity book project\Sql\TabularProject1\TabularProject1\bin\Model.asdatabase
+C:\Users\Computec\Desktop\gravity book project\Sql\TabularProject1\TabularProject1\bin\Model.deploymenttargets
+C:\Users\Computec\Desktop\gravity book project\Sql\TabularProject1\TabularProject1\bin\Model.deploymentoptions
+C:\Users\Computec\Desktop\gravity book project\Sql\TabularProject1\TabularProject1\obj\Development\TabularProject1.smproj.AssemblyReference.cache
+C:\Users\Computec\Desktop\gravity book project\Sql\TabularProject1\TabularProject1\obj\Development\TabularProject1.smproj.CoreCompileInputs.cache
+C:\Users\Computec\Desktop\gravity book project\Sql\TabularProject1\TabularProject1\obj\Development\Model.asdatabase
+C:\Users\Computec\Desktop\gravity book project\Sql\TabularProject1\TabularProject1\obj\Development\Model.deploymentoptions
+C:\Users\Computec\Desktop\gravity book project\Sql\TabularProject1\TabularProject1\obj\Development\Model.deploymenttargets
