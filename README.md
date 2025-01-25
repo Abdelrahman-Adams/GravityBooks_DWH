@@ -17,7 +17,7 @@ ERD of ‘gravity_books’ transactional database:
 
 
 ## 🖥️ ERD
-![Alt Text][(https://drive.google.com/uc?export=view&id=1qG9Zkr3NhfYB1FpOm4g9Le68JfCk09cM)](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/1.ERD.png?raw=true)
+![Alt Text](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/1.ERD.png?raw=true)
 ### Tables Description:
 - **book**: A list of all books available in the store.
 - **book_author**: Stores the authors for each book, which is a many-to-many relationship.
@@ -37,7 +37,7 @@ ERD of ‘gravity_books’ transactional database:
 
 
 ## Create Data Warehouse
-![Alt text](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/4.Star%20Schema.PNG?raw=true(https://drive.google.com/uc?export=view&id=1j5U7guWBxWCfKftZrJ5CGO7FjiYlo3-J)
+![Alt text](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/4.Star%20Schema.PNG?raw=true)
 
 **Phase 1:** ETL using SSIS
 The data was located on a traditional OLTP database which was normalized. We first created a database inside SQL Server for the data warehouse Then, We Write DDLs for the creation and joining of the data in **DWH**.
