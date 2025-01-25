@@ -70,9 +70,9 @@ The data was located on a traditional OLTP database which was normalized. We fir
 
 
 
-## **Phase 3: Cubes using SSAS**
+## **Phase 3: Measures using SSAS**
 ### First we switched SSAS to tabular mode ###
-### Then creating suitable measures to store it in Cube: ###
+### Then creating suitable measures using SSAS: ###
 ![Measured](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSAS/1.Measures.PNG?raw=true)
 
 ## **Phase 4: Creating Visualization using PowerBI**
