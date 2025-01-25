@@ -68,3 +68,7 @@ The data was located on a traditional OLTP database which was normalized. We fir
 #### **5. Fact Table**
 ![Fact Table](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.4.Fact_Table.PNG?raw=true)
 
+
+
+## **Phase 3: Cubes using SSAS**
+### First we switches SSAS to tabular mode ###
