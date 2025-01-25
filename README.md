@@ -76,17 +76,18 @@ The data was located on a traditional OLTP database which was normalized. We fir
 ![Measured](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSAS/1.Measures.PNG?raw=true)
 
 ## **Phase 4: Creating Visualization using PowerBI**
-    We have created a dashboard consisting of 4 pages:
+    We have created a dashboard consisting of **4 pages**:
 ![Page 1](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/1.First.PNG)
-Books Report:
+**Books Report:**
 ![Page 2](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Books.PNG)
-Customer Report:
+**Customer Report:**
 ![Page 3](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Customers.PNG)
-Orders Report:
+**Orders Report:**
 ![Page 4](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Orders.PNG)
-Shipping Report:
+**Shipping Report:**
 ![Page 5](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Shipping.PNG)
-Finally, this is a tooltip to highlight the main KPIs:
+Finally, this is a tooltip to highlight the **main KPIs**:
+
 ![Page 6](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Tooltip.PNG)
 
 
