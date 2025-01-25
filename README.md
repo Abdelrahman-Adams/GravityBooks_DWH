@@ -71,4 +71,8 @@ The data was located on a traditional OLTP database which was normalized. We fir
 
 
 ## **Phase 3: Cubes using SSAS**
-### First we switches SSAS to tabular mode ###
+### First we switched SSAS to tabular mode ###
+
+
+
+
