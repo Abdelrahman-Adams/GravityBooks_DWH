@@ -8,7 +8,7 @@
 This project is about **Extracting, Transforming, and Loading** data from an OLTP database to create a functional Data Warehouse. Conducted analysis and reporting using SSIS, SSAS, and Power bi.
 
 
-## ![image](https://github.com/user-attachments/assets/3633d527-bd35-4edc-825a-00383471dd8c) About DataBase
+## ![icon](https://github.com/user-attachments/assets/3633d527-bd35-4edc-825a-00383471dd8c) About DataBase
 
 The data selected to be used is GravityBooks Database.
 Gravity Books is a database for a fictional bookstore that captures information about books, customers, and sales. 
