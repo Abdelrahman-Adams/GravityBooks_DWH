@@ -64,7 +64,6 @@ The data was located on a traditional OLTP database which was normalized. We fir
 ![Shipping_Method Dimension](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.3.shipping_dimension.PNG?raw=true)
 
 #### **4. Date Dimension**
-*(Add the image link for the Date Dimension here if available)*
 
 #### **5. Fact Table**
 ![Fact Table](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/SSIS/3.4.Fact_Table.PNG?raw=true)
