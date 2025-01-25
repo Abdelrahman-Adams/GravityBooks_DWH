@@ -18,5 +18,5 @@ ERD of ‘gravity_books’ transactional database:
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1qG9Zkr3NhfYB1FpOm4g9Le68JfCk09cM/view?usp=sharing)
+![Alt Text](https://drive.google.com/uc?export=view&id=1qG9Zkr3NhfYB1FpOm4g9Le68JfCk09cM)
 
