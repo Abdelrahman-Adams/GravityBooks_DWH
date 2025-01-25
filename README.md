@@ -36,7 +36,7 @@ ERD of ‘gravity_books’ transactional database:
 - **order_status**: The possible statuses of an order.
 
 
-
+![Alt text](https://github.com/Abdelrahman-Adams/GravityBooks_DWH/blob/main/Screenshots/Visualization/Books.PNG?raw=true)
 
 ## Create Data Warehouse
 ![Alt text](https://drive.google.com/uc?export=view&id=1j5U7guWBxWCfKftZrJ5CGO7FjiYlo3-J)
