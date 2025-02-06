@@ -3,7 +3,7 @@
 
 
 
-## 🚀 About project:
+## About project:
 
 This project is about **Extracting, Transforming, and Loading** data from an OLTP database to create a functional Data Warehouse. Conducted analysis and reporting using SSIS, SSAS, and Power bi.
 
